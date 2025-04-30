@@ -1,6 +1,6 @@
 # Contact Manager with OOP in Python
 
-A CLLLLLLI-based **Contact Manager** built using **Object-Oriented Programming (OOP)** concepts in **Python** by **Faria Mustaqim**.  
+A CLI-based **Contact Manager** built using **Object-Oriented Programming (OOP)** concepts in **Python** by **Faria Mustaqim**.  
 This application allows you to manage **Friend** and **Business** contacts efficiently from the command line.
 
 ---
@@ -41,7 +41,6 @@ contact_manager.py  # Main application code with OOP structure
 
 ```bash
 python contact_manager.py
-Sample Interface
 
 📒 Contact Manager Menu With OOP by Faria Mustaqim
 1️⃣  Add friend contact 🧑
@@ -54,19 +53,23 @@ Sample Interface
 ```
 
 Phone Format Rule
+
 Phone numbers must:
 
 Be 7 to 15 digits
+
 Optionally start with a +
 
 ✅ Valid:
 
 +923001234567
+
 03001234567
 
 ❌ Invalid:
 
 123abc
+
 001
 
 Author:
