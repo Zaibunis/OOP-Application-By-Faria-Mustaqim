@@ -29,11 +29,7 @@ This application allows you to manage **Friend** and **Business** contacts effic
 
 ## File Structure
 
-contact_manager.py # Main application code with OOP structure
-
-yaml
-Copy
-Edit
+contact_manager.py  # Main application code with OOP structure
 
 ---
 
@@ -46,9 +42,7 @@ Edit
 ```bash
 python contact_manager.py
 Sample Interface
-pgsql
-Copy
-Edit
+
 📒 Contact Manager Menu With OOP by Faria Mustaqim
 1️⃣  Add friend contact 🧑
 2️⃣  Add business contact 🧑‍💼
@@ -56,6 +50,8 @@ Edit
 4️⃣  Delete contact ❌
 5️⃣  List all contacts 📋
 6️⃣  Exit 🚪
+
+```
 
 Phone Format Rule
 Phone numbers must:
@@ -73,13 +69,10 @@ Optionally start with a +
 123abc
 001
 
-Author
-Faria Mustaqim
+Author:
+Faria Mustaqim🙌
 🌐 GIAIC Student | 💻 Full Stack & Python Developer
 
-lua
-Copy
-Edit
 
 
 
