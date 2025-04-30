@@ -72,8 +72,12 @@ Optionally start with a +
 
 001
 
-**Author:**
+---
+
+## Author:
+
 **Faria Mustaqim🙌**
+
 **🌐 GIAIC Student | 💻 Full Stack & Python Developer**
 
 
