@@ -1,40 +1,54 @@
-🧠 Contact Manager with OOP in Python
-A CLI-based Contact Manager built using Object-Oriented Programming (OOP) concepts in Python by Faria Mustaqim.
+
+Contact Manager with OOP in Python
+A terminal-based Contact Manager built using Object-Oriented Programming (OOP) concepts in Python by Faria Mustaqim.
 This application allows you to manage Friend and Business contacts efficiently from the command line.
 
-📦 Features:
-
+Features
 ➕ Add Friend contacts with Name, Phone, and Birthday 🎂
+
 ➕ Add Business contacts with Name, Phone, Company, and Job Title 💼
+
 📋 List all saved contacts in a structured format
+
 🔍 Search for a contact by name
+
 ❌ Delete contacts you no longer need
+
 ✅ Validates phone number format (7–15 digits, optional +)
 
-🧱 OOP Concepts Used:
-
+OOP Concepts Used
 ✅ Classes and Inheritance (Contact, FriendContact, BusinessContact)
+
 🔁 Method Overriding (custom display() in child classes)
 
 🧪 Encapsulation with private attributes
+
 ⚠️ Input Validation using Regex
 
 📌 Static Methods for utility logic
+
 🧠 Polymorphism for displaying different contact types
 
-📁 File Structure
-
+File Structure
+bash
+Copy
+Edit
 contact_manager.py   # Main application code with OOP structure
+How to Run
+Install Python 3 if not already installed.
 
-🖥️ How to Run:
-Install Python 3.
-Save the code as contact_manager.py
+Save the code as contact_manager.py.
 
-Run in the terminal:
+Run the application in the terminal:
+
+bash
+Copy
+Edit
 python contact_manager.py
-
-📸 Sample Interface
-
+Sample Interface
+pgsql
+Copy
+Edit
 📒 Contact Manager Menu With OOP by Faria Mustaqim
 1️⃣  Add friend contact 🧑
 2️⃣  Add business contact 🧑‍💼
@@ -42,23 +56,34 @@ python contact_manager.py
 4️⃣  Delete contact ❌
 5️⃣  List all contacts 📋
 6️⃣  Exit 🚪
-
-📞 Phone Format Rule
+Phone Format Rule
 Phone numbers must:
 
 Be 7 to 15 digits
+
 Optionally start with a +
 
 ✅ Valid:
 
 +923001234567
+
 03001234567
 
 ❌ Invalid:
 
 123abc
+
 001
 
-👤 Author
+Planned Enhancements
+✅ Step 1: Add persistent contact storage using JSON 📁
+
+🔜 Step 2: Build a GUI version using Tkinter 🖱️
+
+🔜 Enable editing/updating contact details ✏️
+
+🔜 Filter/search enhancements (partial match)
+
+Author
 Faria Mustaqim
 🌐 GIAIC Student | 💻 Full Stack & Python Developer
