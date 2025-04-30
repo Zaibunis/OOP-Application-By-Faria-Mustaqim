@@ -72,9 +72,9 @@ Optionally start with a +
 
 001
 
-Author:
-Faria Mustaqim🙌
-🌐 GIAIC Student | 💻 Full Stack & Python Developer
+**Author:**
+**Faria Mustaqim🙌**
+**🌐 GIAIC Student | 💻 Full Stack & Python Developer**
 
 
 
